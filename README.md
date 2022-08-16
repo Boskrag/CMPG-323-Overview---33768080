@@ -32,7 +32,7 @@ https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy.14/8/2022
 
 The use of .gitignore within each project:
 In order to instruct Git which files and directories to ignore when you make a commit,
- you can create a.gitignore file in the root directory of your repository.
+you can create a.gitignore file in the root directory of your repository.
 https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files.14/8/2022
 
 Git's gitignore file is crucial because it prevents unnecessary files
@@ -46,5 +46,5 @@ the repositories, using encrypted secrets.
 You can create secret environment variables in a repository, organization, or repository environment.
 To help ensure that secrets are encrypted before they reach GitHub and
 remain encrypted until you utilize them in a process, GitHub uses libsodium sealed boxes.
-https://docs.github.com/en/actions/security-guides/encrypted-secrets
+https://docs.github.com/en/actions/security-guides/encrypted-secrets..14/8/2022
 
