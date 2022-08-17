@@ -12,7 +12,7 @@ Project 5 - CMPG 323 Project 5 33768080 - URL -
 
 
 Project and repository context and how they are integrated:
-See Word document in Github repository for Diagram, since notepad only supports text.
+<img src="Integration.png" alt="Integration">
 
 All projects will have there own repository, but will share the same Kanban project on Github which will undergo version control and be regularly updated.
 Thus there will be 5 repositories and 1 Kanban Project.
