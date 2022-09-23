@@ -10,6 +10,7 @@ Project 1 - CMPG 323 Overview 33768080 - URL - https://github.com/Boskrag/CMPG-3
 Project 2 - CMPG 323 Project 2 33768080 - URL - https://github.com/Boskrag/CMPG-323-Project-2---33768080
 
 Project 3 - CMPG 323 Project 3 33768080 - URL - https://github.com/Boskrag/CMPG-323-Project-3---33768080
+          - CMPG-323-IOT-Device-Management - URL -https://github.com/Boskrag/CMPG-323-IOT-Device-Management/tree/Development
 
 Project 4 - CMPG 323 Project 4 33768080 - URL -
 
