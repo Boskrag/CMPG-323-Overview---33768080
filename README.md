@@ -13,9 +13,9 @@ Project 3 - CMPG 323 Project 3 33768080 - URL - https://github.com/Boskrag/CMPG-
 
 Project 3 - CMPG-323-IOT-Device-Management - URL -https://github.com/Boskrag/CMPG-323-IOT-Device-Management/tree/Development
 
-Project 4 - CMPG 323 Project 4 33768080 - URL -
+Project 4 - CMPG 323 Project 4 33768080 - URL - https://github.com/Boskrag/CMPG-323-Project-4---33768080
 
-Project 5 - CMPG 323 Project 5 33768080 - URL -
+Project 5 - CMPG 323 Project 5 33768080 - URL - https://github.com/Boskrag/CMPG-323-Project-5---33768080
 
 
 ## Project and repository context and how they are integrated:
